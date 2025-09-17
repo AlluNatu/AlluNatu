@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AlluNatu
-- 👀 I’m mostly interested in cyber security, but also algorithms and backend
+- 👀 I’m mostly interested in front-end, back-end and algorithms.
 - 🌱 I’m currently learning in LUT University, Lappeenranta Finland
-- 💞️ I’m looking to collaborate on anything considering algorithms and cyber security to build my knowledge and skills
-- 📫 You can reach me here
+- 💞️ I’m looking to collaborate on anything considering front-end and back-end to better my skills and knowledge
 - ⚡ Fun fact: I like to play riichi mahjong
 
 <!---
